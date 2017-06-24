@@ -47,6 +47,13 @@ b {
 h2 {
   padding-top: 1em;
 }
+
+p.sign {
+  text-indent: 0;
+  text-transform: uppercase;
+  padding-left: 2em;
+  padding-right: 2em; 
+}
 /* abbreviations*/
 
 abbr.name { white-space: nowrap; }
