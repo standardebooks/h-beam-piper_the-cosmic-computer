@@ -18,45 +18,47 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Cosmic Computer</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
+		<meta property="file-as" refines="#title">Cosmic Computer, The</meta>
+		<dc:subject id="subject-1">Fiction</dc:subject>
+		<dc:subject id="subject-2">Science Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
 		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The hunt for Merlin, the Cosmic Computer with god-like abilities</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
+			Conn Maxwell returns to his home planet with long-awaited news about the hunt for Merlin, the Cosmic Computer with god-like abilities.
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en-US</dc:language>
+		<dc:source>www.gutenberg.org</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._Beam_Piper</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_the-cosmic-computer</meta>
 		<dc:creator id="author">H. Beam Piper</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
+		<meta property="file-as" refines="#author">Piper, H. Beam</meta>
+		<meta property="se:name.person.full-name" refines="#author">Henry Beam Piper</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._Beam_Piper</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
+		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Bethanne M. Simms</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Simms, Bethanne M.</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">LINK</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Jason Isbell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Isbell, Jason</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">LINK</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
@@ -74,13 +76,57 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/body_split00.xhtml" id="body_split00.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split01.xhtml" id="body_split01.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split02.xhtml" id="body_split02.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split03.xhtml" id="body_split03.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split04.xhtml" id="body_split04.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split05.xhtml" id="body_split05.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split06.xhtml" id="body_split06.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split07.xhtml" id="body_split07.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split08.xhtml" id="body_split08.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split09.xhtml" id="body_split09.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split10.xhtml" id="body_split10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split11.xhtml" id="body_split11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split12.xhtml" id="body_split12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split13.xhtml" id="body_split13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split14.xhtml" id="body_split14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split15.xhtml" id="body_split15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split16.xhtml" id="body_split16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split17.xhtml" id="body_split17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split18.xhtml" id="body_split18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split19.xhtml" id="body_split19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split20.xhtml" id="body_split20.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/body_split21.xhtml" id="body_split21.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="body_split00.xhtml"/>
+		<itemref idref="body_split01.xhtml"/>
+		<itemref idref="body_split02.xhtml"/>
+		<itemref idref="body_split03.xhtml"/>
+		<itemref idref="body_split04.xhtml"/>
+		<itemref idref="body_split05.xhtml"/>
+		<itemref idref="body_split06.xhtml"/>
+		<itemref idref="body_split07.xhtml"/>
+		<itemref idref="body_split08.xhtml"/>
+		<itemref idref="body_split09.xhtml"/>
+		<itemref idref="body_split10.xhtml"/>
+		<itemref idref="body_split11.xhtml"/>
+		<itemref idref="body_split12.xhtml"/>
+		<itemref idref="body_split13.xhtml"/>
+		<itemref idref="body_split14.xhtml"/>
+		<itemref idref="body_split15.xhtml"/>
+		<itemref idref="body_split16.xhtml"/>
+		<itemref idref="body_split17.xhtml"/>
+		<itemref idref="body_split18.xhtml"/>
+		<itemref idref="body_split19.xhtml"/>
+		<itemref idref="body_split20.xhtml"/>
+		<itemref idref="body_split21.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
