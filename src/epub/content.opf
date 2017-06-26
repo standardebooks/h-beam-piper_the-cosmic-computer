@@ -21,14 +21,12 @@
 		<meta property="file-as" refines="#title">Cosmic Computer, The</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Science Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The hunt for Merlin, the Cosmic Computer with god-like abilities</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			Conn Maxwell returns to his home planet with long-awaited news about the hunt for Merlin, the Cosmic Computer with god-like abilities.
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>www.gutenberg.org</dc:source>
