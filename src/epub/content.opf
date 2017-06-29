@@ -103,6 +103,7 @@
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="chapter-01.xhtml"/>
 		<itemref idref="chapter-02.xhtml"/>
 		<itemref idref="chapter-03.xhtml"/>
@@ -125,7 +126,6 @@
 		<itemref idref="chapter-20.xhtml"/>
 		<itemref idref="chapter-21.xhtml"/>
 		<itemref idref="chapter-22.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
