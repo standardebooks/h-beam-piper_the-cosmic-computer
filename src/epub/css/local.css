@@ -1,19 +1,6 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/*  XML blockout */
-h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-  /* all headings centered */
-  clear: both;
-}
-/* page numbers */
-.block {
-  margin-left: 5%;
-  margin-right: 5%;
-}
-/* block indent */
-
 b {
   text-transform: lowercase;
   font-weight:normal;
@@ -44,18 +31,10 @@ b {
 [epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
-/**/
-h2 {
-  padding-top: 1em;
-}
 
-p.sign {
+blockquote.sign {
   text-indent: 0;
   text-transform: uppercase;
-  margin-top: 0.5em;
-  margin-left: 1em;
-  margin-right: 1em;
-  margin-bottom: 0.5em;
 }
 /* abbreviations*/
 
