@@ -19,8 +19,10 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Cosmic Computer</dc:title>
 		<meta property="file-as" refines="#title">Cosmic Computer, The</meta>
-		<dc:subject id="subject-1">Fiction</dc:subject>
-		<dc:subject id="subject-2">Science Fiction</dc:subject>
+		<dc:subject id="subject-1">PS: Language and Literatures: American and Canadian literature</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/20727</meta>
+		<dc:subject id="subject-2">Science fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/20727</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The hunt for Merlin, the Cosmic Computer with god-like abilities</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -29,10 +31,10 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>www.gutenberg.org</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/20727</dc:source>
+		<dc:source>https://www.gutenberg.org/files/20727</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/H._Beam_Piper</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_the-cosmic-computer</meta>
 		<dc:creator id="author">H. Beam Piper</dc:creator>
 		<meta property="file-as" refines="#author">Piper, H. Beam</meta>
@@ -41,22 +43,23 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81081941</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jacoba van Heemskerck</dc:contributor>
-		<meta property="file-as" refines="#artist">Turner, J.M.W.</meta>
+		<meta property="file-as" refines="#artist">van Heemskerck, Jacoba</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jacoba_van_Heemskerck</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006028599</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Bethanne M. Simms</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Simms, Bethanne M.</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">LINK</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Jason Isbell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Isbell, Jason</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">LINK</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">http://http://www.pgdp.net</meta>
+
 		<dc:contributor id="producer-1">David R. Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David R.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
