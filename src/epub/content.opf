@@ -19,15 +19,17 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Cosmic Computer</dc:title>
 		<meta property="file-as" refines="#title">Cosmic Computer, The</meta>
-		<dc:subject id="subject-1">PS: Language and Literatures: American and Canadian literature</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/20727</meta>
-		<dc:subject id="subject-2">Science fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/20727</meta>
+		<dc:subject id="subject">Science fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject">https://www.gutenberg.org/ebooks/20727</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The hunt for Merlin, the Cosmic Computer with god-like abilities</dc:description>
+		<dc:description id="description">A young man returns to his home planet with news about Merlin, the military super-computer rumoured to be hidden somewhere on his world.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			Conn Maxwell returns to his home planet with long-awaited news about the hunt for Merlin, the Cosmic Computer with god-like abilities.
+		<![<![CDATA[
+		<p><em>The Cosmic Computer</em> is a 1963 science fiction novel by H. Beam Piper based on his short story "Graveyard of Dreams", which was published in the February 1958 issue of <em>Galaxy Magazine</em>. </p>
+		<p>The action largely takes place on the planet Poictesme, which is full of abandoned military installations and equipment, hence the novel's original name <em>Junkyard Planet</em>. Young Conn Maxwell returns from Earth with long-awaited news about Merlin, a military computer with god-like abilities long rumored to be hidden somewhere on Poictesme. Though convinced that the story is just a myth, nevertheless Conn and his father use a purported search for Merlin to drive the revitalisation of the planet's economy. In the process, they discover far more than they expected.</p>
+		<p>Typically for science fiction novels of the pulp era, there is little character development and women play a minor role, with romance given only a token treatment. The emphasis is on the conflicts over the spoils of the planet and the fiercely competitive search for the 'cosmic computer' of the title.</p>
+		]]>]
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -59,7 +61,6 @@
 		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">http://http://www.pgdp.net</meta>
-
 		<dc:contributor id="producer-1">David R. Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David R.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
