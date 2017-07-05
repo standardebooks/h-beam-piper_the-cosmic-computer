@@ -1,8 +1,7 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b {
-	text-transform: lowercase;
+b{
 	font-weight:normal;
 	font-variant: small-caps;
 }
@@ -32,15 +31,14 @@ b {
 	text-indent: 0;
 }
 
-blockquote.sign {
-	text-transform: uppercase;
+blockquote.sign{
+	font-variant: small-caps;
 }
 
-blockquote.sign > p {
+blockquote.sign > p{
 	text-indent: 0;
 }
-/* abbreviations*/
 
-abbr.name { white-space: nowrap; }
-abbr.initialism { font-variant: normal; text-transform: uppercase; }
-abbr.degree { font-variant: normal; text-transform: uppercase; }
+abbr.name{
+	white-space: nowrap;
+}
