@@ -6,7 +6,6 @@ b{
 	font-variant: small-caps;
 }
 
-/* poetry */
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
@@ -14,9 +13,8 @@ b{
 
 [epub|type~="z3998:poem"] p > span{
 	display: block;
-	font-style: italic;
-	padding-left: 2em;
-	padding-right: 2em;
+	text-indent: -1em;
+	padding-left: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br{
