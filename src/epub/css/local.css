@@ -20,10 +20,10 @@
 	text-indent: 0;
 }
 
-blockquote.sign{
+#chapter-13 blockquote{
 	font-variant: small-caps;
 }
 
-blockquote.sign > p{
+#chapter-13 blockquote p{
 	text-indent: 0;
 }
