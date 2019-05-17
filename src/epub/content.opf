@@ -26,20 +26,17 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Cosmic Computer</dc:title>
 		<meta property="file-as" refines="#title">Cosmic Computer, The</meta>
 		<dc:subject id="subject">Science fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject">https://www.gutenberg.org/ebooks/20727</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A young man returns to his home planet with news about Merlin, the military super-computer rumoured to be hidden somewhere on his world.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Cosmic Computer&lt;/i&gt; is a 1963 science fiction novel by H. Beam Piper based on his short story “Graveyard of Dreams,” which was published in the February 1958 issue of &lt;i&gt;Galaxy Magazine&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The action largely takes place on the planet Poictesme, which is full of abandoned military installations and equipment—hence the novel’s original name, &lt;i&gt;Junkyard Planet&lt;/i&gt;. Young Conn Maxwell returns from Earth with long-awaited news about Merlin, a military computer with god-like abilities long rumored to be hidden somewhere on Poictesme. Though convinced that the story is just a myth, Conn and his father use the purported search for Merlin to drive the revitalization of the planet’s economy. In the process, they discover far more than they expected.&lt;/p&gt;
 			&lt;p&gt;As was typical for science fiction novels of the pulp era, there is little character development and women play a minor role, with romance given only a token treatment. The emphasis is on the conflicts over the spoils of the planet and the fiercely competitive search for the titular “cosmic computer.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20727</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID43128cd316a33</dc:source>
