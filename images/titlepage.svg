@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 700">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
 	<title>The titlepage for the Standard Ebooks edition of The Cosmic Computer, by H. Beam Piper</title>
 	<style type="text/css">
 		text{
@@ -18,7 +18,5 @@
 	</style>
 	<text class="title" x="700" y="130">THE</text>
 	<text class="title" x="700" y="230">COSMIC COMPUTER</text>
-	<text class="title" x="700" y="330"/>
-	<text class="author" x="700" y="490">H. BEAM PIPER</text>
-	<text class="author" x="700" y="570"/>
+	<text class="author" x="700" y="390">H. BEAM PIPER</text>
 </svg>
