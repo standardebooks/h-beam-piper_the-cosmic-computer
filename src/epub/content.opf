@@ -67,8 +67,8 @@
 		<dc:contributor id="transcriber-3">Jason Isbell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Isbell, Jason</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
